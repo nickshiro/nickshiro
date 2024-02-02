@@ -1,5 +1,7 @@
 ### Hello there, hej, bonjour, こんにちは 👋
 
-Insane frontend web-developer with React & Django stack. Professor of HTML & CSS
+Philosopher, engineer and just a web-developer
 
-> I also teach deno, vite, webpack and other backend technology. Use telegram or email to contact me)
+React, Vite, Webpack,  Django Templates, SASS – the most frequent technology stack)
+
+> Always available for communication (Telegram, Instagram & Gmail)
