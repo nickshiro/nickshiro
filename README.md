@@ -1,1 +1,1 @@
-![img](./icons/ts.svg) ![img](./icons/sass.svg) ![img](./icons/html.svg)
+![TypeScript](./icons/ts.svg) ![React](./icons/react.svg) ![SASS](./icons/sass.svg) ![HTML5](./icons/html.svg)
