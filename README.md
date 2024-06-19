@@ -1,1 +1,1 @@
-![img](./banner.png)
+![img](./icons/ts.svg)
