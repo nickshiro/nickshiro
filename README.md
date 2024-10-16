@@ -5,9 +5,9 @@ I'm always open for a chat - reach out via Telegram, Instagram, or Gmail. Fluent
 ![TypeScript](./icons/ts.svg) ![React](./icons/react.svg) ![NextJS](./icons/nextjs.svg) ![Redux](./icons/redux.svg) ![Vite](./icons/vite.svg) ![Webpack](./icons/webpack.svg) ![StyleX](./icons/stylex.svg) ![SASS](./icons/sass.svg) ![HTML5](./icons/html.svg)
 
 <p align="center">
-    <img src="./icons/tg.svg" height=48/>
+    <img src="./icons/ts.svg" height=48/>
     <img src="./icons/react.svg" height=48/>
-    <img src="./icons/next.svg" height=48/>
+    <img src="./icons/nextjs.svg" height=48/>
     <br/>
     <img src="./icons/redux.svg" height=48/>
     <img src="./icons/vite.svg" height=48/>
