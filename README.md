@@ -1,5 +1,6 @@
 ## Greetings: Bonjour, Hello, Hej, こんにちは!
 I'm always open for a chat - reach out via Telegram, Instagram, or Gmail. Fluent in English, Russian, Ukrainian, and conversational in Japanese. A multifaceted individual: Philosopher, Engineer, Paleontologist, Beekeeper, and a just Frontend Web Developer.
+Let's create something amazing together!
 
 <h1 align="center">Tech Stack & Tools:</h1>
 <p align="center">
@@ -13,5 +14,3 @@ I'm always open for a chat - reach out via Telegram, Instagram, or Gmail. Fluent
     <img src="./icons/sass.svg" title="SASS" height=48/>
     <img src="./icons/html.svg" title="HTML 5"height=48/>
 </p>
-
-Let's create something amazing together!
