@@ -8,11 +8,9 @@ I'm always open for a chat - reach out via Telegram, Instagram, or Gmail. Fluent
     <img src="./icons/ts.svg" height=48/>
     <img src="./icons/react.svg" height=48/>
     <img src="./icons/nextjs.svg" height=48/>
-    <br/>
     <img src="./icons/redux.svg" height=48/>
     <img src="./icons/vite.svg" height=48/>
     <img src="./icons/webpack.svg" height=48/>
-    <br/>
     <img src="./icons/sass.svg" height=48/>
     <img src="./icons/html.svg" height=48/>
 </p>
