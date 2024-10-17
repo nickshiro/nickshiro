@@ -9,6 +9,7 @@ Let's create something amazing together!
     <img src="./icons/redux.svg" title="Redux" height=48/>
     <img src="./icons/vite.svg" title="Vite" height=48/>
     <img src="./icons/webpack.svg" title="Webpack" height=48/>
+    <img src="./icons/tailwindcss.svg" title="SASS" height=48/>
     <img src="./icons/stylex.svg" title="StyleX JS" height=48/>
     <img src="./icons/sass.svg" title="SASS" height=48/>
     <img src="./icons/html.svg" title="HTML 5"height=48/>
