@@ -7,6 +7,7 @@ Let's create something amazing together!
     <img src="./icons/react.svg" title="React JS" height=48/>
     <img src="./icons/nextjs.svg" title="Next JS" height=48/>
     <img src="./icons/redux.svg" title="Redux" height=48/>
+    <img src="./icons/tapps.png" title="Telegram Mini Apps"height=48/>
     <img src="./icons/vite.svg" title="Vite" height=48/>
     <img src="./icons/webpack.svg" title="Webpack" height=48/>
     <img src="./icons/tailwindcss.svg" title="Tailwind CSS" height=48/>
