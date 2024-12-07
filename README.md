@@ -1,8 +1,8 @@
 ## Bonjour, Hello, Hej, こんにちは!
 I'm always open for a chat — reach out via Telegram, Instagram, or Gmail. Fluent in English, Russian and conversational in Japanese. A multifaceted individual: philosopher, engineer, paleontologist, beekeeper, and a just front-end web developer. </br>
 Let's create something amazing together!
-<h2 align="center">Tech Stack & Tools:</h2>
-<p align="center">
+<h2 align="left">Tech Stack & Tools:</h2>
+<p align="left">
     <img src="./icons/ts.svg" title="TypeScript" height=48/>
     <img src="./icons/js.svg" title="JavaScript" height=48/>
     <img src="./icons/next.svg" title="Next" height=48/>
