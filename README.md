@@ -1,2 +1,2 @@
 # Bonjour, Hello, Hej, こんにちは!
-![](img/banner.jpg)
+![](img/banner_.jpg)
